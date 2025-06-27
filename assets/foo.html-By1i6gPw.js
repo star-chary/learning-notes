@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e}from"./app-DUCY_Udv.js";const r={};function a(c,n){return e(),o("div")}const f=t(r,[["render",a]]),_=JSON.parse('{"path":"/other/foo.html","title":"","lang":"zh-CN","frontmatter":{},"git":{},"filePathRelative":"other/foo.md"}');export{f as comp,_ as data};
